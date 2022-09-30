@@ -1,4 +1,4 @@
-### The Seattle School Institutional Technologthey - Standard Operating Procedures
+### The Seattle School Institutional Technology - Standard Operating Procedures
 
 ### Overview
 
