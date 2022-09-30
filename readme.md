@@ -1,6 +1,6 @@
 # The Seattle School IT Department - Standard Operating Procedures
 
-Written in Markdown using `mkdocs` convention. Hosted through [GitHub Pages](https://itstaff-tss.github.io/tss-it-sop/).
+Written in Markdown using `mkdocs` convention. Hosted through [GitHub Pages](https://itstaff-tss.github.io/tss-it-sop-demo/).
 
 [mkdocs User Guide](https://www.mkdocs.org/user-guide/)
 
